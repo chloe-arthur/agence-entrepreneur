@@ -2,18 +2,18 @@
     margin-top:0.5em;
     content: "";
     float:left;
-    border:1.5em solid #00ffff;
+    border:1.5em solid #edf1f1;
   }
   
   .ribbon:after {
-    border-right-color:#00ffff;
+    border-right-color:#9ce2e2;
   }
   
   .ribbon:before {
     border-left-color:cy;
   }
   .ribbon a:link, .ribbon a:visited { 
-    color:#fafafa;
+    color:#2224b4;
     text-decoration:none;
     float:left;
     height:3.5em;
