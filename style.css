@@ -1,5 +1,6 @@
 .ribbon:after, .ribbon:before {
     margin-top:0.5em;
+    margin-left: 20em;
     content: "";
     float:left;
     border:1.5em solid #9ce2e2;
@@ -51,6 +52,3 @@
     border-left:0.5em solid #9B8651;
     border-bottom:0.5em solid #fff;
   }  
-  .div {
-      text-align:center;
-  }
