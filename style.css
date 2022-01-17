@@ -10,7 +10,7 @@
   }
   
   .ribbon:before {
-    border-left-color:cy;
+    border-left-color:#9ce2e2;
   }
   .ribbon a:link, .ribbon a:visited { 
     color:#2224b4;
@@ -30,7 +30,7 @@
   }
   
   .ribbon a:hover span {
-    background:#9bbfee;
+    background:#9ce2e2;
     margin-top:0;
   }
   
