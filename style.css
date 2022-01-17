@@ -1,5 +1,4 @@
 .ribbon:after, .ribbon:before {
-    background:url(img/chloe.jpg)
     margin-top:0.5em;
     margin-left: 15em;
     content: "";
@@ -53,3 +52,6 @@
     border-left:0.5em solid #9B8651;
     border-bottom:0.5em solid #fff;
   }  
+.p1{
+    background-image:url(img/chloe.jpg)
+}
