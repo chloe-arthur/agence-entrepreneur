@@ -6,25 +6,25 @@
     /* margin-left: 20em; */ 
     content: "";
     float:left;
-    border:1.5em solid #9ce2e2;
+    border:1.5em solid #acd8e6;
   }
   
   .ribbon:after {
-    border-right-color:#9ce2e2;
+    border-right-color:#acd8e6;
   }
   
   .ribbon:before {
-    border-left-color:#9ce2e2;
+    border-left-color:#acd8e6;
   }
   .ribbon a:link, .ribbon a:visited { 
-    color:#2224b4;
+    color:#080808;
     text-decoration:none;
     float:left;
     height:3.5em;
     overflow:hidden;
   }
   .ribbon span {
-    background:#9ce2e2;
+    background:#ddbb8e;
     display:inline-block;
     line-height:3em;
     padding:0 1em;
@@ -57,4 +57,6 @@
   } 
   body{
     text-align: center;
-  }
+    background-image: url("img/bleu.jpg");}
+    body{
+      border-image-source: url(img/chloe.jpg);}
