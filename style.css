@@ -55,8 +55,10 @@
     border-left:0.5em solid #9B8651;
     border-bottom:0.5em solid #fff;
   } 
-  body{
+ body{
     text-align: center;
     background-image: url("img/bleu.jpg");}
-    body{
-    <img src:"img/chloe.jpg";}
+  {
+.titre{
+  font-style: magnolia script;
+  } 
