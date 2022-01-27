@@ -57,8 +57,10 @@
   } 
  body{
     text-align: center;
-    background-image: url("img/bleu.jpg");}
-  {
+    background-image: url("img/bleu.jpg");
+  }
+  
 .titre{
   font-style:italic;
+  font-family: 'Times New Roman', Times, serif;
   } 
